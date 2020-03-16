@@ -20,7 +20,6 @@ include_once "adminheader.php";
             <h1 class="text-center">Add Admin</h1>
         </div>
     </div>
-    <h1>hello</h1>
     <form action="addAdmin.php" method="post">
         <div class="form-group row">
             <label for="username" class="col-md-2">Email</label>
