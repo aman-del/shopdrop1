@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f7958602-503d-4b0a-b3ff-f6b5885d4409" name="shopdrop" url="http://localhost/shopdrop">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\shopdrop" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
